@@ -25,6 +25,9 @@ The performance is then submitted to the Kaggle platform https://www.kaggle.com/
 
 As of April 2021, the final model scored an AUC of 0.80612 and ranked 30 out of 361 submissions.
 
+A medium blog on this project can be found here
+https://mrnpetel.medium.com/arvato-customer-segmentation-and-prediction-4fcff97d9fe
+
 ## File Descriptions <a name="files"></a>
 
 1. Datasets
