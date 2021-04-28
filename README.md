@@ -11,7 +11,7 @@ This project is part of the [Udacity Datascience Nanodegree](https://www.udacity
 
 ## Installation <a name="installation"></a>
 
-The following Python packages are required: pandas, numpy, pickle, plotly, sklearn, catboost and hyperopt.
+The following Python packages are required: pandas, numpy, pickle, plotly, sklearn, catboost, hyperopt and faiss.
 
 ## Project Motivation<a name="motivation"></a>
 
